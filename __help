@@ -1,0 +1,68 @@
+Multi Vendor System
+
+🔰🔰 Admin Dashboard 🔰🔰
+
+
+1) Seller Add =
+
+Seller Name :
+Photo :
+Company Name :
+Products Cetagory :
+Admin Commission :
+Licence Photo :
+NID Photo :
+Phone Number :
+Email :
+Password :
+
+
+Seller Information : এডমিন সেলার এর সকল রিপোর্ট দেখতে পারবে তার কত টা প্রোডাক্ট আছে, আবার ডিলিট ও করতে পারবে প্রোডাক্ট সাথে Seller account ও ডিলিট করতে পারবে। কত টা অর্ডার পাইছে কত টাকার অর্ডার হয়েছে, তার একাউন্ট এ কত টাকা আছে, Admin এর লত টাকা লাভ সব দেখতে পারবে এডমিন।
+
+Withdrawal Request : সব সেলার রা Withdrawal Request দিলে এডমিন এখান থেক দেখে টাকা দিবে। আর auto সব টাকার অর্ডার Paid লেখা থাকবে।
+
+
+Online Order : এখানে প্রতি টা অর্ডার এর একটাই অর্ডার নাম্বার থাকবে যদি ১০ টা ও এক সাথে কেউ অর্ডার করে তাহলে অর্ডার নাম্বার ১ টাই হবে। ⚠️ শুধু প্রতিটা প্রোডাক্ট এর সিরিয়াল নাম্বার আলাদা হবে এটা Seller দের প্রোডাক্ট বুঝার জন্য কোন সেলার এর কোনটা।
+
+আর কাষ্টমার দেখতে পারবে কোন কোন প্রোডাক্ট টার অর্ডার গ্রহন হয়েছে কোনটা হয় নি প্রতিটা প্রোডাক্ট এর সাথে দেখতে পারবে Confirmed নাকি Cancelled - এটা হলে এটার কারন সেলার রা লিখে দিলো কাস্টমার আর এডমিন দেখতে পারবে কেন Cancelled করা হলো এই প্রোডাক্ট টা কারন। ⚠️
+
+
+Seller List : এখানে সব Seller এর list থাকবে  সেলার ডিলিট করা থেকে শুরু করে এড করা সব পারবে এডমিন করতে ✅
+
+
+🔰🔰 Seller Dashboard 🔰🔰
+
+
+Multi vendor system =
+
+Seller Rules And Video : এখানে Seller এর সকল নিয়ম থাকবে লেখা আর কিছু ভিডিও
+
+Seller Report : সেলার রা তাদের Order Report দেখতে পারবে।  Total Order, Total Products, Total Earning, Total Product, Admin Commission Total এই সব রিপোর্ট দেখতে পারবে Dashboard এ সেলার রা।
+
+Products Upload :
+
+সেলার প্রোডাক্ট আপলোড করার সময় তার প্রোডাক্ট এর দাম সে যখন দিবে তখন এডমিন সেই দাম থেকে কত টাকা কমিশন পাবে সেটা দেখতে পারবে সে। উদাহরণ : সেলার এর প্রোডাক্ট এর দাম সে দিল ৩০০ টাকা এখানে দেখাবে এডমিন ১৫% টাকা পেলে সে পাবে ২৫০ টাকা অর্ডার সম্পুর্ন হলে তার একাউন্ট এ ২৫০ টাকা এড হবে বাকি ৫০ টাকা এডমিন এর। আর প্রোডাক্ট আপলোড করার সময় Auto Seller এর নাম এড হয়ে যবে প্রোডাক্ট এ সেটা ওয়েবসাইট এ ও দেখা যাবে শুধু নাম।
+
+Extra Delivery Charge Add : Products এ Extra Charge এড করে দিতে পারবে যেটা Delivery charge এর সাথো এড হবে ১ কেজির বেশি প্রোডাক্ট গুলো তে শুধু।
+
+Products Admin Approval করলে এডমিন এর Products list এ চলে যাবে। এডমিন চাইলে Edit ও করতে পারবে সব।  আর সেখানে Filter থাকবে সিস্টেম কোন কোন সেলার এর প্রোডাক্ট শুধু দেখা যাবে।
+
+
+Orders : সেলার রা এখানে তার অর্ডার দেখতো পারবে তারা শুধু  Order Status : Approved বা Confirmed আর Ready to Shipped, Order Shipped এই টাই Status পরিবর্তন করতে পারবে এরপর আর কোন কিছু পারবে না বাকি সব Admin করবে।
+
+Return Order : দেখতে পারবে।
+
+Withdrawal : এখানে সেলার রা তাদের টাকা Withdraw করতে পারবে BKash, Nagad এ টাকা দিতে চাইলে এখানে ১% বা ২% কাটা হবে র্চাজ এবং Bank এ ২% আর যদি তারা Cash টাকা Request দেয় কোন র্চাজ কাটবে না।
+
+Withdraw Request দিলে নিচে তার Reportদেখতে পারবে Paid না Unpaid, Pending, Chanel এই সব দেখবে।  টাকা Paid হলে ভিতরে ডুকে রিপোর্ট দেখতে পারবে কোন কোন অর্ডার এর টাকা তারা পেয়েছে সেই সেই অর্ডার এর সাথে Seller Cash Withdraw Paid দেখাবে। যাতে বুঝা যায় যে সেলার এই সব অর্ডার এর টাকা বুঝে পেয়েছে। এটা এডমিন ও দেখবে কাকে কোন অর্ডার এর টাকা দিয়েছে।
+
+
+High Selling Products : এটা সেলার তার নিজের টা দেখতে পারবে
+
+আর Admin সবার টা এক সাথে দেখতে পারবে।
+
+Sales Report, Products Report এটা সেলার এ ও থাকবে। ✅
+
+Products Attibutes ✅
+
+Products Brand ✅
