@@ -26,3 +26,4 @@ yarn-error.log
 # storage/media-library
 # */storage/media-library
 docker-compose.yml
+public/file/service-account-file.json
